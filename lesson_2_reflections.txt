@@ -1,2 +1,3 @@
 bla
 another reflection
+you can add only the files related to that commit
